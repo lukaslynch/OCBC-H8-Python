@@ -97,7 +97,7 @@ while n > 0:
     print(n)
 
 print('==iterate with range==')
-# x = range(5) --> [1, 2, 3, 4]
+# x = range(5) --> [0, 1, 2, 3, 4]
 # x = range(2, 9) --> 2 s/d angka sebelum 9
 # x = range(0, 20, 100) --> mulai dri angka 0, incremnt 20, brhenti sblum angka 100
 
